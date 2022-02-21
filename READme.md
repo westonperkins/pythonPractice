@@ -1,3 +1,30 @@
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Data Types](#data-types)
+- [Output and Printing Functions](#output-and-printing-functions)
+- [Variables](#variables)
+- [Getting user input](#getting-user-input)
+- [Arithmetic Operators](#arithmetic-operators)
+- [String Methods](#string-methods)
+- [Conditions and Conditional operators](#conditions-and-conditional-operators)
+- [Lists and tuples](#lists-and-tuples)
+- [For loop](#for-loop)
+- [While loop](#while-loop)
+- [Slice operator](#slice-operator)
+- [Sets](#sets)
+- [Dictionaries](#dictionaries)
+- [Comprehensions](#comprehensions)
+- [Unpack Operator](#unpack-operator)
+- [*args, **kwargs](#args-kwargs)
+- [Lambda](#lambda)
+- [F strings](#f-strings)
+
+<!-- /code_chunk_output -->
+
+
 ## Data Types
 - <b>Int</b>: any number that does not include a decimal
     - 100, -9, -893489, 1234422
